@@ -6,6 +6,6 @@ auth_token = "baf27d709fa8832617b8c97dfa33b429"
 
 client = Client(account_sid, auth_token)
 client.messages.create(
-    to="+919871816901",
+    to="919871816901",
     from_="09871816901",
     body="This sms is received via python script" )
