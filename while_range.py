@@ -16,6 +16,6 @@ while True:
     elif n==3:
         print("multiply two numbers")
     elif n==4:
-        print("Exit")
+        valid=
     i=i+1
 print(i)
