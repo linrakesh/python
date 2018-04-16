@@ -10,7 +10,6 @@
 #-------------------------------------------------------------------------------
 import glob
 import os
-
 def main():
     directory='C:\\Users\\acer\\Desktop\\HigherThinkingC++'
     os.chdir(directory)

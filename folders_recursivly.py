@@ -33,7 +33,7 @@ def compressFile(source):
    file2 = open("temp.dat","w")
    data = file.read();
    file2.write(re.sub('[\s]+',' ',data))
-   file.close();
+   file.close()
    file2.close()
    os.remove(source)
    os.rename('temp.dat',source)
