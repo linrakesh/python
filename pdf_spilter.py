@@ -1,16 +1,14 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
+# Name:        pdf spiller
+# Purpose:     split pdf in to single pages
 # Author:      acer
-#
-# Created:     13-04-2018
+## Created:     13-04-2018
 # Copyright:   (c) acer 2018
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import os
-import sys          #module for terminating 
-import glob
+import sys          # module for terminating 
+import glob         # 
 import tkinter as tk
 from tkinter import filedialog
 from PyPDF2 import PdfFileReader, PdfFileWriter
@@ -20,7 +18,8 @@ def pdf_splitter(path,dest):
     for page in range(pdf.getNumPages()):
         pdf_writer = PdfFileWriter()
         pdf_writer.addPage(pdf.getPage(page))
-        output_filename = dest+'\{}_page_{}.pdf'.format(fname, page+1)
+        output_filename = os.path.join(dest,'{}_page_{}.pdf'.format(fname, page+1))
+        #print(output_filename)
         with open(output_filename, 'wb') as out:
             pdf_writer.write(out)
         print('Created: {}'.format(output_filename))
