@@ -9,10 +9,10 @@ from tkinter import filedialog
 count=0
 root = tk.Tk()
 root.withdraw()
-sourcedir = filedialog.askdirectory()
+sourcedir = filedialog.askdirectory()  #source folder
 os.chdir(sourcedir)
 source_files = glob.glob('*.*')
-targetdir = filedialog.askdirectory()
+targetdir = filedialog.askdirectory()  # target folder
 if not targetdir.strip() :
     print ( "Folder Error...User did not selected any folder" )
     #rootdir = 'C:\\Users\\ace
