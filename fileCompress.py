@@ -12,6 +12,7 @@ import re
 
 def compress():
    string =  re.sub('[ \t\n]+',' ','The     quick brown                \n\n             \t        fox')
-   print string
+   print(string)
+   
 if __name__ == '__main__':
     compress()

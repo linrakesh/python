@@ -11,7 +11,8 @@
 import sys,webbrowser
 if( len (sys.argv) > 1):
     query = "+".join(sys.argv[1:])
-    address = "http://www.google.co.in/search?q={}".format(query)
+    address = "http://www.youtube.com/results?search_query={}".format(query)
     webbrowser.open(address)
 else:
-    webbrowser.open('http://www.google.co.in/search?q=binarynote')
+    webbrowser.open('http://www.youtube.com/results?search_query=binarynote')
+
