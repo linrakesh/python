@@ -1,11 +1,9 @@
 #-------------------------------------------------------------------------------
 # Name:        google.py
 # Purpose:     search google using command line
-#
 # Author:      rakesh kumar
-#
 # Created:     03-02-2018
-# Copyright:   (c) acer 2018
+# Copyright:   binarynote.com
 # Licence:     MIT
 #-------------------------------------------------------------------------------
 
