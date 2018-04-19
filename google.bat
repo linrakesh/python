@@ -1,1 +1,2 @@
-@ "C:\Users\acer\Desktop\pythonbox\pythonPrograms\google.py"%*
+@ py "C:\Users\acer\Desktop\pythonbox\pythonPrograms\google.py"
+@ pause

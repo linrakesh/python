@@ -1,3 +1,4 @@
+# !python36
 #-------------------------------------------------------------------------------
 # Name:        google.py
 # Purpose:     search google using command line
