@@ -31,7 +31,7 @@ def remove_comment(source):
 def compressFile(source):
    file = open(source,"r")
    file2 = open("temp.dat","w")
-   data = file.read();
+   data = file.read()
    file2.write(re.sub('[\s]+',' ',data))
    file.close()
    file2.close()
