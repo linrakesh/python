@@ -12,7 +12,7 @@
 import MySQLdb
 # Open database connection
 db = MySQLdb.connect("localhost","root","ramji","cable" )
-cursor = db.cursor();
+cursor = db.cursor()
 sql ="select * from customer"
 cursor.execute(sql)
 results = cursor.fetchall()

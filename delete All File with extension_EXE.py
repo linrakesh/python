@@ -18,7 +18,7 @@ def main():
     root.withdraw()
     directory = filedialog.askdirectory()  #source folder
     count=0
-    for root,files in os.walk(directory):
+    for root, SubFolders , files in os.walk(directory):
         os.chdir(root)
         files = glob.glob('*.exe')
         for filename in files:
