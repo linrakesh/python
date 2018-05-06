@@ -6,6 +6,6 @@ for file in os.listdir():
         filename,ext = os.path.splitext(file)
         files = filename.split(' ')  #now filenames in tuples
         newname = files[4] + '-'.join(files[5:])+ext 
-        #print(newname)
+        # print(newname)
         os.rename(file,newname)
         

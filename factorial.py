@@ -10,7 +10,7 @@
 #-------------------------------------------------------------------------------
 #! python3
 fact=1
-n = 100000
+n = 10
 for i in range(1,n+1):
     fact = fact*i
 print ("Factoril of" + str(n) +" is :" + str(fact))
