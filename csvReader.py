@@ -3,16 +3,15 @@ import xlwt
 from tabulate import tabulate
 import re
 def writecell(ws,sub,marks,row):
-    
     try:
         subject = int(sub)
-        if(subject ==301):                   #english
+        if(subject ==301):                 #english
             ws.write(row,2,int(marks))
-        if(subject==302):                   #hindi
+        if(subject==302):                  #hindi
             ws.write(row,3,int(marks))
-        if(subject==41):                    #maths
+        if(subject==41):                   #maths
             ws.write(row,4,int(marks))
-        if(subject==42):                    #physics
+        if(subject==42):                   #physics
             ws.write(row,5,int(marks))
         if(subject==43):                   #chemistry
             ws.write(row,6,int(marks))
@@ -24,7 +23,7 @@ def writecell(ws,sub,marks,row):
             ws.write(row,9,int(marks))
         if(subject==48):                   # physical education
             ws.write(row,10,int(marks))
-        if(subject==30):                    #30 - economics
+        if(subject==30):                   #30 - economics
             ws.write(row,11,int(marks))
         if(subject==55):                    #55 - accounts
             ws.write(row,12,int(marks))
@@ -36,12 +35,10 @@ def writecell(ws,sub,marks,row):
             ws.write(row,15,int(marks))
         if(subject==34):                    #34 - Hindi Vocal Music
             ws.write(row,16,int(marks))
-        if(subject==49):                    #30 - economics
+        if(subject==49):                    #30 - painting
             ws.write(row,17,int(marks))
     except:
         return
-
- 
 
 with open('08849.csv','r') as csvfile:
     csv_reader = csv.reader(csvfile)
@@ -75,7 +72,6 @@ with open('08849.csv','r') as csvfile:
         # for i in line3:
         #     print(i, end=" ")
         # print();
-
         ws.write(i,0,line3[0])
         ws.write(i,1,line3[1]+' '+line3[2])
         writecell(ws,line3[4],line3[5],i)
@@ -92,4 +88,4 @@ with open('08849.csv','r') as csvfile:
         #    ws.write(i,3,int(line3[5]))
         i+=1
     wb.save("result.xls")
-    print("Excel sheet Generated.....Please check results")
+print("\n\n\nExcel sheet Generated.....Please check results\n\n\n")
