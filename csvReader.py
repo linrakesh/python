@@ -37,10 +37,12 @@ def writecell(ws,sub,marks,row):
             ws.write(row,16,int(marks))
         if(subject==49):                    #30 - painting
             ws.write(row,17,int(marks))
+        if(subject==74):                    #30 - painting
+            ws.write(row,18,int(marks))
     except:
         return
 
-with open('08849.csv','r') as csvfile:
+with open('result.csv','r') as csvfile:
     csv_reader = csv.reader(csvfile)
     wb = xlwt.Workbook()
     ws = wb.add_sheet("result")
@@ -62,16 +64,17 @@ with open('08849.csv','r') as csvfile:
     ws.write(0,15,"Political")
     ws.write(0,16,"Music")
     ws.write(0,17,"painting")
+    ws.write(0,18,"Legal Studies")
     i=1
     for line in csv_reader:
         line1 = ''.join(line)
         line2 = re.sub(' +',' ',line1)
         line3 = line2.split(' ')
-        #print(line3)
-        #print(line3[0],line3[1],line3[2],line3[4],line3[5],line3[7],line3[8],line3[10],line3[11],line3[13],line3[14],line3[16],line3[17],line3[19],line3[20])
-        # for i in line3:
-        #     print(i, end=" ")
-        # print();
+        # print(line3)
+        # print(line3[0],line3[1],line3[2],line3[4],line3[5],line3[7],line3[8],line3[10],line3[11],line3[13],line3[14],line3[16],line3[17],line3[19],line3[20])
+        # # for i in line3:
+        # #     print(i, end=" ")
+        # # print();
         ws.write(i,0,line3[0])
         ws.write(i,1,line3[1]+' '+line3[2])
         writecell(ws,line3[4],line3[5],i)
