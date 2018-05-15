@@ -20,8 +20,8 @@ with open("DOB.csv") as csvfile:
         # print(line2)
         ws.write(i,0,line[0])
         ws.write(i,1,line[1])
-        ws.write(i,2,line[2])
         ws.write(i,3,line[3])
+        ws.write(i,2,line[2])
         ws.write(i,4,line[4])
         ws.write(i,5,line3)
         i= i+1

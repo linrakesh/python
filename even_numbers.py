@@ -21,7 +21,7 @@ def even_numbers():
         if x<=327:
             break
         if x%2==0:
-            print x
+            print(x)
 
 
 if __name__ == '__main__':
