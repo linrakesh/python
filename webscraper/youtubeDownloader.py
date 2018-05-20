@@ -4,4 +4,4 @@ import urllib
 import shutil
 ydl_opts = {}
 with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-    ydl.download(['http://103.67.198.6/uploaded-videos/The.Raid.2.2014.1080p.BluRay.x264-YTS.AG.MP4'])
+    ydl.download(['https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq'])

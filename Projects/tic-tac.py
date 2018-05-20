@@ -1,5 +1,4 @@
 import random
-
 def draw_board(bo):
     print('    '+bo[0].rjust(4)+"  | "+bo[1].rjust(4) + " | "+bo[2].rjust(4) )
     print('------------------------')
@@ -36,11 +35,7 @@ def check_winner(board,sbl):
         ( board[2] ==sbl and board[5]==sbl and board[8]==sbl ) or
         ( board[0] ==sbl and board[4]==sbl and board[7]==sbl ) or
         ( board[2] ==sbl and board[4]==sbl and board[6]==sbl ))
-        
-def clear():
-    print()
-    print()
-    print()
+
 
 def check_blank(board):
     found = False
@@ -50,29 +45,38 @@ def check_blank(board):
     return found    
 
 #main program start from here
-board = [' ']*9
-# user_symbol = input("Choose Your symbol (X|O) : ")
-# comp_symbol = 'X' if user_symbol =='O' else 'O'
-# print('Computer Symbol :', comp_symbol)
-# print('User Symbol :', user_symbol)
-user_symbol='X'
-while True:
-    result = check_blank(board)
-    if result==True:
-        get_user_entry(board,user_symbol)
-        if(user_symbol=='O'):
-            print("Computer's Move")
-        draw_board(board)
-        win = check_winner(board,user_symbol)
-        if win==True:
-            if user_symbol=='O':
-                print("You Lost this match my dear")
+if __name__ == '__main__':  
+    board = [' ']*9
+
+    # comp_symbol = 'X' if user_symbol =='O' else 'O'1
+
+    # print('Computer Symbol :', comp_symbol)
+    # print('User Symbol :', user_symbol)
+
+    user_symbol='X'
+
+    while True:
+        while True:
+            result = check_blank(board)
+            if result==True:
+                get_user_entry(board,user_symbol)
+                if(user_symbol=='O'):
+                    print("Computer's Move")
+                draw_board(board)
+                win = check_winner(board,user_symbol)
+                if win==True:
+                    if user_symbol=='O':
+                        print("You Lost this match my dear")
+                    else:
+                        print("You Won this Match my dearS")
+                    board = [' ']*9
+                    break
             else:
-                print("You Won this Match my dearS")
-            board = [' ']*9
+                print("No position left Blank....Try again") 
+                break
+            user_symbol = 'X' if user_symbol =='O' else 'O'
+        choice = input("\n\nDo you  wanna Play more(Yes/No) :").upper()
+        if choice=='N':
             break
-    else:
-        print("No position left Blank....Try again") 
-        break
-    user_symbol = 'X' if user_symbol =='O' else 'O'
-    
+        else:
+            board =[' ']*9
