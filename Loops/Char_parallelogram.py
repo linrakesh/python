@@ -6,7 +6,7 @@ def printString(string):
     for i in range(0,n):
         print(string[i],end=" ")
 
-string  = "TESTINGPROGRAM"
+string  = "TEST"
 n = len(string)
 # print(n)
 for i in range(1,n+1):

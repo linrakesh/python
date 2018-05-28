@@ -42,7 +42,7 @@ def writecell(ws,sub,marks,row):
     except:
         return
 
-with open('result.csv','r') as csvfile:
+with open('raju.csv','r') as csvfile:
     csv_reader = csv.reader(csvfile)
     wb = xlwt.Workbook()
     ws = wb.add_sheet("result")
@@ -75,6 +75,7 @@ with open('result.csv','r') as csvfile:
         # # for i in line3:
         # #     print(i, end=" ")
         # # print();
+        # print(line)
         ws.write(i,0,line3[0])
         ws.write(i,1,line3[1]+' '+line3[2])
         writecell(ws,line3[4],line3[5],i)

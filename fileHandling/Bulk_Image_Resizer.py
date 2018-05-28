@@ -1,12 +1,10 @@
 #-------------------------------------------------------------------------------
-# Name:        small images
-# Purpose:     Program to create small images
-#
-# Author:      rakesh kumar
-#
-# Created:     09-02-2018
-# Copyright:   rakesh kumar
-# Licence:     Private use on one computer
+# Name:             small images
+# Purpose:          Program to create small images
+# Author:           rakesh kumar
+# Created:          09-02-2018
+# Copyright:        rakesh kumar
+# Licence website : http://www.cbsetoday.com
 #-------------------------------------------------------------------------------
 import os
 import glob
@@ -48,7 +46,7 @@ def deleteFiles():
             small(filename1,targetdir,filename)
             #print filename
 
-    print ( "Job Complete " + str(count) + "....Check your folder now" )
+    print ( "\n\n\nJob Complete " + str(count) + "....Check your Destination folder now\n\n" )
 
 if __name__ == '__main__':
     deleteFiles()

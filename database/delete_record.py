@@ -13,7 +13,7 @@ import MySQLdb
 
 db = MySQLdb.connect("localhost","root","ramji","cable")
 
-cursor = db.cursor();
+cursor = db.cursor()
 
 name = input("Enter any name")
 
