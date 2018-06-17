@@ -4,4 +4,4 @@ import urllib
 import shutil
 ydl_opts = {}
 with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-    ydl.download(['https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy'])
+    ydl.download(['https://www.youtube.com/watch?v=srHZoj3ASmk'])
