@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import Tk,scrolledtext,filedialog,messagebox,END,simpledialog,colorchooser
+from tkinter import Tk,scrolledtext,filedialog,messagebox,END,simpledialog,colorchooser,commondialog
 import datetime
 import os
 
@@ -57,7 +57,8 @@ def underline():
 def italic():
     textarea.config(font = ("Arial",12,"italic"))
 
-
+def fonts():
+    pass
 
 def NewFile():
     if len(textarea.get('1.0',END+'-1c'))>0:
@@ -140,6 +141,7 @@ editmenu.add_command(label='Background',command=background)
 fontmenu =Menu(menu)
 
 menu.add_cascade(label="Font",menu=fontmenu)
+fontmenu.add_command(label='fonts',command=fonts)
 fontmenu.add_command(label='Normal',command=normal)
 fontmenu.add_command(label='Bold',command=bold)
 fontmenu.add_command(label='Italic',command=italic)
