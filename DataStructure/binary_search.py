@@ -1,6 +1,8 @@
 x =[1,2,3,5,7,8,9,10,12,14,15,18,20,22]
-data = 89
-found =0
+data = 10
+
+#bad way to find data in tuple
+''' found =0
 first=0
 last =13
 while (first<=last and found ==0):
@@ -17,3 +19,8 @@ if(found ==0):
 else:
     print("Data found")
 
+ '''
+if data in x:
+     print("Data found")
+else:
+    print("Not found")

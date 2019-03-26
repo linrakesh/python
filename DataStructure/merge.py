@@ -1,5 +1,6 @@
 x =[1,2,3,4,5,6,7,8]
 y = [1,2,3,4,5]
+#wrong way to do merge
 z = []
 i=j=k=0
 while(i<8 and j <5):
@@ -14,9 +15,10 @@ while(i<8):
     i = i+1
 while(j<5):
     z.append(y[j])
-    j= j+1
+    j= j+1 
 
 #display concatenated list 
 print("\n Merged array : ")
-for i in z:
-    print(i,end=" ")
+''' for i in z:
+    print(i,end=" ") '''
+print(z)
