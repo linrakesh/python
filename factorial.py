@@ -9,8 +9,12 @@
 # Licence:     MIT-2.0
 #-------------------------------------------------------------------------------
 #! python3
-fact=1
-n = int(input("Enter any integer no : "))
-for i in range(1,n+1):
-    fact = fact*i
-print ("Factoril of" + str(n) +" is :" + str(fact))
+import math
+
+# fact=1
+# n = int(input("Enter any integer no : "))
+# for i in range(1,n+1):
+#     fact = fact*i
+# print ("Factoril of" + str(n) +" is :" + str(fact))
+
+print(math.factorial(10))
