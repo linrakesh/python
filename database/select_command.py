@@ -12,7 +12,7 @@
 import MySQLdb
 from prettytable import PrettyTable
 # Open database connection
-db = MySQLdb.connect("localhost","root","ramji","cable" )
+db = MySQLdb.connect("localhost","root","","cable" )
 cursor = db.cursor()
 cnt = cursor.execute("select count(*) from customer")
 sql ="select * from customer"

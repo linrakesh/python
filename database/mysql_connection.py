@@ -1,7 +1,7 @@
 """Database connectivity mysql."""
 import MySQLdb
 # Open database connection
-db = MySQLdb.connect("localhost", "root", "ramji", "cable" )
+db = MySQLdb.connect("localhost", "root", "", "cable" )
 # prepare a cursor object using cursor() method
 cursor = db.cursor()
 # execute SQL query using execute() method.

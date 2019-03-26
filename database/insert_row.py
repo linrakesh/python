@@ -7,6 +7,8 @@
 # Created:     12-04-2018
 # Copyright:   (c) acer 2018
 # Licence:     MIT
+#for mysql          - pip install mysqlclient
+#for prettytable    - pip install prettytable
 #-------------------------------------------------------------------------------
 import MySQLdb
 from prettytable import PrettyTable
@@ -41,7 +43,7 @@ def input_data(cursor):
 """MAIN PROGRAM START FROM HERE """
 
 if __name__=='__main__':
-    db = MySQLdb.connect("localhost","root","ramji","cable")
+    db = MySQLdb.connect("localhost","root","","cable")
     cursor = db.cursor()
     # sql ="insert into customer values(20,'rakesh','jagdish','cf-4 arun vihar','12121212','arun@bin.com');"
     # cursor.execute(sql)
