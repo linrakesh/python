@@ -1,21 +1,16 @@
-class student():
-    name=""
-    website=""
-    expertise=""
-    
-    def __init__(self):
-        self.name ="swarnima"
-        self.website = "http://www.swarnima.com"
-        self.expertise ="Django Specialist"
+class student:
+    def __init__(self,name,website,expertise):
+        self.name = name
+        self.website = website
+        self.expertise = expertise
 
-    def showData(self):
-        print("Name : ",self.name)
-        print("website  : ", self.website)
-        print("Expertise :", self.expertise,"\n")
-
+    def showdata(self):
+        return 'Name : {} \nWebsite: {}  \nExpertise :{}'.format(self.name,self.website,self.expertise)
 #object creation
 #
 
-s1 = student()  #calling constructor
-s1.showData()
+s1 = student('rakehs','https://bianrynote.com','Django Specilist')  #calling constructor
+print(s1.showdata())
 
+#calling function using class itself and passing object as its parameter
+print(student.showdata(s1))
