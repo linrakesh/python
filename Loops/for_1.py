@@ -5,4 +5,5 @@ def pyramid():
             print(j,end=" ")
         print()
 
-pyramid()
+if __name__ == '__main__':
+    pyramid()
