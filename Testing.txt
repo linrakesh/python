@@ -1,0 +1,2 @@
+This is rakesh and this is my first file handling program in Python 
+This is second line and i am learning new things in pythinthird line of the same program
