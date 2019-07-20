@@ -27,4 +27,4 @@ print("List took :",(time.time()-start)*1000)
 
 start = time.time()  #start time again
 result = n1+n2
-print("List took :",(time.time()-start)*1000)
+print("Numpy took :",(time.time()-start)*1000)
