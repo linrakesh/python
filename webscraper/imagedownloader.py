@@ -28,24 +28,25 @@ else:
     address = "https://www.pexels.com/search/{}".format(query)
     #webbrowser.open(address)
 
-root = tk.Tk()
-root.withdraw()
-directory = filedialog.askdirectory()  
+if __name__ == '__main__':
+    root = tk.Tk()
+    root.withdraw()
+    directory = filedialog.askdirectory()  
 
-r  = requests.get(address)
-data = r.text
-soup = BeautifulSoup(data,"html.parser")
-for link in soup.select('.js-photo-link img'):
-    name = link.get('srcset')
-    len = (name.find('?'))
-    newname = name[0:len]
-    print(newname)
-    #webbrowser.open(newname)
-    downloader(newname,directory)
-print("Download complete check your folder")
-#root = tk.Tk()
-#root.withdraw()
-#directory = filedialog.askdirectory()  #source folder
+    r  = requests.get(address)
+    data = r.text
+    soup = BeautifulSoup(data,"html.parser")
+    for link in soup.select('.js-photo-link img'):
+        name = link.get('srcset')
+        len = (name.find('?'))
+        newname = name[0:len]
+        print(newname)
+        #webbrowser.open(newname)
+        downloader(newname,directory)
+    print("Download complete check your folder")
+    #root = tk.Tk()
+    #root.withdraw()
+    #directory = filedialog.askdirectory()  #source folder
 
-#url ="http://www.binarynote.com/wp-content/themes/binarynote3/images/main.jpg"
-#downloader(link.get(srcset,directory))
+    #url ="http://www.binarynote.com/wp-content/themes/binarynote3/images/main.jpg"
+    #downloader(link.get(srcset,directory))

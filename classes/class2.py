@@ -1,3 +1,8 @@
+# program to show the use of class variable and instance variable 
+# made by           : rakesh kumar
+# last compiled on  : 27/03/2019
+
+
 class student():
     name = "rakesh"
     website ="binarynote.com"

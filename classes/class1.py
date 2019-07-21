@@ -1,3 +1,6 @@
+# Example of class variable 
+
+
 class student():
     name = "rakesh"
     website ="binarynote.com"
