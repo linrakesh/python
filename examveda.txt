@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs -->
+	<meta charset="utf-8">
+	<title>Accounting MCQ Questions and Solutions with Explanations | Commerce</title>
+	<meta name="description" content="Accounting MCQ Questions and answers with easy and logical explanations. Commerce provides you all type of quantitative and competitive aptitude mcq questions with easy and logical explanations. Accounting MCQ is important for exams like CA, CS, CMA, CPA, CFA, UPSC, NET, Banking and other accounts department exam.">
+
+    <!--FB-->
+    <meta name="fb:app_id" content="1397219133847803"/>
+    <meta name="og:type" content="Education"/>
+    <meta name="og:url" content="https://www.examveda.com/"/>
+    <meta name="og:title" content="Accounting MCQ Questions and Solutions with Explanations | Commerce"/>
+    <meta name="og:description" content="Accounting MCQ Questions and answers with easy and logical explanations. Commerce provides you all type of quantitative and competitive aptitude mcq questions with easy and logical explanations. Accounting MCQ is important for exams like CA, CS, CMA, CPA, CFA, UPSC, NET, Banking and other accounts department exam."/>
+	<meta name="og:image" content="https://www.examveda.com/images/fb/accounting.png"/>
+    <meta name="og:image:type" content="image/png"/>
+    <meta name="og:image:height" content="296"/>
+    <meta name="og:image:width" content="560"/>
+	<!-- Mobile Specific Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- Main Style -->
+	<link rel="stylesheet" href="https://www.examveda.com/css/new-style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css" />	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+		    googletag.defineSlot('/270858676/TM_adx_right_side_300x250', [[336, 280], 'fluid', [300, 250]], 'div-gpt-ad-1561981355188-0').addService(googletag.pubads());
+		googletag.defineSlot('/270858676/TM_adx_right_side_300x600', ['fluid', [300, 600]], 'div-gpt-ad-1561981397059-0').addService(googletag.pubads());
+				    googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-5532218674251828",
+        enable_page_level_ads: true
+      });
+    </script></head>
+<body>
+
+<div id="wrap" class="grid_1200">
+    <script>
+(function(v,d,o,ai){ai=d.createElement('script');ai.defer=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, "//vdo.ai/core/examveda/vdo.ai.js");
+</script>    	
+<div class="bg-lock"></div>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37380566-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-37380566-1', { 'optimize_id': 'GTM-T7K97LW'});
+</script>
+	<div id="header-top">
+		<section class="container clearfix">
+
+			<div class="header-search">
+				<div class="logo"><a href="https://www.examveda.com/"><img alt="examveda.com" title="Examveda.com" src="https://www.examveda.com/images/logo.png"></a></div>
+			</div>
+      <nav class="header-top-nav">
+
+                	         <div class="user">
+          <div class="user-so">
+         		<a href="https://www.examveda.com/login/?url=https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F" id="login-panel"><i class="fas fa-user"></i> Login </a>
+         	</div>
+         </div>
+                    
+			</nav>
+
+      <nav class="">
+				<div class="new-mobile-menu">
+        	<i class="fas fa-bars"></i>
+        </div>
+        <div class="new-mobile-menu-container">
+
+
+	        <div class="col-xs-12">
+
+
+                                <h5>Login into Examveda with</h5>
+                 			<a href="javascript:void(0);" onClick='window.open("https://www.examveda.com/fb-login.php?url=https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F", "_parent", "width=900, height=500");' style="" class="button small col-xs-12 bg-fb"><i class="social_icon-facebook font20 pull-left"></i> <div class="login-text">Login with Facebook</div></a>
+                    	<hr>
+                    	<a href="javascript:void(0);" onClick='window.open("https://www.examveda.com/googleConfig.php?url=https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F", "_parent", "width=900, height=500");' style="" class="button small col-xs-12 bg-gplus"><i class="social_icon-gplus font20 pull-left"></i> <div class="login-text">Login with Google</div></a>
+                    	<hr>
+                
+            </div>
+        <h5>Menu</h5>
+        		<ul>
+												<li><a href="https://www.examveda.com/" ><div class="hc-1"> H</div> Home</a></li>
+												<li><a href="https://www.examveda.com/mcq-question-on-arithmetic-ability/" ><div class="hc-2"> A</div> Aptitude</a></li>
+												<li><a href="https://www.examveda.com/mcq-question-on-competitive-english/" ><div class="hc-3"> E</div> English</a></li>
+												<li><a href="https://www.examveda.com/mcq-question-on-competitive-reasoning/" ><div class="hc-4"> R</div> Reasoning</a></li>
+												<li><a href="https://www.examveda.com/mcq-question-on-data-interpretation/" ><div class="hc-5"> D</div> DI</a></li>
+												<li><a href="https://www.examveda.com/mcq-question-on-general-knowledge/" ><div class="hc-6"> G</div> GK</a></li>
+												<li><a href="https://www.examveda.com/daily-current-affairs/" ><div class="hc-7"> C</div> Current Affairs</a></li>
+												<li><a href="https://www.examveda.com/interview/" ><div class="hc-8"> I</div> Interview</a></li>
+											<li><a href="#" title="">Computer</a>
+						<ul>
+													<li><a href="https://www.examveda.com/mcq-question-on-computer-fundamentals/" title=""><div class="hc-9"> C</div>Computer Fundamentals</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-networking/" title=""><div class="hc-10"> N</div>Networking</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-sql/" title=""><div class="hc-11"> S</div>SQL</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-database/" title=""><div class="hc-12"> D</div>Database</a></li>
+											</ul>
+						</li>
+											<li><a href="#" title="">Programming</a>
+						<ul>
+													<li><a href="https://www.examveda.com/mcq-question-on-c-program/" title=""><div class="hc-14"> C</div>C Program</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-java-program/" title=""><div class="hc-15"> J</div>Java Program</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-html/" title=""><div class="hc-16"> H</div>HTML</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-css/" title=""><div class="hc-17"> C</div>CSS</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-javascript/" title=""><div class="hc-18"> J</div>Javascript</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-php/" title=""><div class="hc-19"> P</div>PHP Program</a></li>
+											</ul>
+						</li>
+											<li><a href="#" title="">Engineering</a>
+						<ul>
+													<li><a href="https://www.examveda.com/mcq-question-on-computer-science/" title=""><div class="hc-21"> C</div>Computer Science</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-electrical-engineering/" title=""><div class="hc-22"> E</div>Electrical Engineering</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-mechanical-engineering/" title=""><div class="hc-23"> M</div>Mechanical Engineering</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-civil-engineering/" title=""><div class="hc-24"> C</div>Civil Engineering</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-chemical-engineering/" title=""><div class="hc-25"> C</div>Chemical Engineering</a></li>
+											</ul>
+						</li>
+											<li><a href="#" title="">More</a>
+						<ul>
+													<li><a href="https://www.examveda.com/download-free-paper/" title=""><div class="hc-27"> P</div>Paper</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-banking-awareness/" title=""><div class="hc-28"> B</div>Banking Awareness</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-commerce/" title=""><div class="hc-29"> C</div>Commerce</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-management/" title=""><div class="hc-30"> M</div>Management</a></li>
+											</ul>
+						</li>
+												<li><a href="https://www.examveda.com/ask-question/" ><div class="hc-32"> A</div> Ask Question</a></li>
+										 				</ul>
+
+       	</div>
+			</nav>
+		</section><!-- End container -->
+	</div><!-- End header-top -->
+
+
+<!-- Desktop-->
+
+  <header id="header">
+		<section class="container clearfix">
+			<nav class="navigation">
+				<ul>
+												<li ><a href="https://www.examveda.com/">Home</a></li>
+												<li ><a href="https://www.examveda.com/mcq-question-on-arithmetic-ability/">Aptitude</a></li>
+												<li ><a href="https://www.examveda.com/mcq-question-on-competitive-english/">English</a></li>
+												<li ><a href="https://www.examveda.com/mcq-question-on-competitive-reasoning/">Reasoning</a></li>
+												<li ><a href="https://www.examveda.com/mcq-question-on-data-interpretation/">DI</a></li>
+												<li ><a href="https://www.examveda.com/mcq-question-on-general-knowledge/">GK</a></li>
+												<li ><a href="https://www.examveda.com/daily-current-affairs/">Current Affairs</a></li>
+												<li ><a href="https://www.examveda.com/interview/">Interview</a></li>
+											<li ><a href="#" title="">Computer</a>
+						<ul>
+													<li><a href="https://www.examveda.com/mcq-question-on-computer-fundamentals/" title="">Computer Fundamentals</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-networking/" title="">Networking</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-sql/" title="">SQL</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-database/" title="">Database</a></li>
+											</ul>
+						</li>
+											<li ><a href="#" title="">Programming</a>
+						<ul>
+													<li><a href="https://www.examveda.com/mcq-question-on-c-program/" title="">C Program</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-java-program/" title="">Java Program</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-html/" title="">HTML</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-css/" title="">CSS</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-javascript/" title="">Javascript</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-php/" title="">PHP Program</a></li>
+											</ul>
+						</li>
+											<li ><a href="#" title="">Engineering</a>
+						<ul>
+													<li><a href="https://www.examveda.com/mcq-question-on-computer-science/" title="">Computer Science</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-electrical-engineering/" title="">Electrical Engineering</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-mechanical-engineering/" title="">Mechanical Engineering</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-civil-engineering/" title="">Civil Engineering</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-chemical-engineering/" title="">Chemical Engineering</a></li>
+											</ul>
+						</li>
+											<li class="current_page_item"><a href="#" title="">More</a>
+						<ul>
+													<li><a href="https://www.examveda.com/download-free-paper/" title="">Paper</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-banking-awareness/" title="">Banking Awareness</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-commerce/" title="">Commerce</a></li>
+													<li><a href="https://www.examveda.com/mcq-question-on-management/" title="">Management</a></li>
+											</ul>
+						</li>
+												<li ><a href="https://www.examveda.com/ask-question/">Ask Question</a></li>
+									</ul>
+			</nav>
+		</section><!-- End container -->
+	</header><!-- End header -->
+
+					<div class="breadcrumbs">
+          <section class="container">
+            <div class="row">
+              <div class="col-xs-12">
+                <h1>Accounting MCQ Questions and Solutions with Explanations | Commerce</h1>
+              </div>
+              <div class="col-xs-12">
+                <div class="crumbs">
+                                   			<span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a title="Home" href="https://www.examveda.com/" rel="up" itemprop="url"><span itemprop="title">Home</span></a></span>
+                  			<span class="crumbs-span">/</span>
+                                			<span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a title="Commerce" href="https://www.examveda.com/mcq-question-on-commerce/" rel="up" itemprop="url"><span itemprop="title">Commerce</span></a></span>
+                  			<span class="crumbs-span">/</span>
+                                  		<span class="current" itemprop="title">Accounting</span>
+                                 
+                </div>
+              </div>
+            </div><!-- End row -->
+          </section><!-- End container -->
+        </div>
+	<section class="container main-content margin-bottom-15">
+		<div class="row">
+
+   			<div class="col-md-12">
+             <article class="page-content padding2 center">
+<!-- single-question-left-1 -->
+<div id="sticky-anchor-2"></div>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5532218674251828"
+     data-ad-slot="2849590251"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</article>      	</div>
+			<div class="col-md-8">
+								<article>
+          <div class="page-content chapter-section">
+          					                    	<a  class="active"  href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=1">Section 1</a>
+                                        	<a  href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=2">Section 2</a>
+                                        	<a  href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=3">Section 3</a>
+                                        	<a  href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=4">Section 4</a>
+                                        	<a  href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=5">Section 5</a>
+                                        	<a  href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=6">Section 6</a>
+                    
+				</div>
+            </article>
+          
+         
+         
+            <article class="question single-question question-type-normal">
+						<div class="row">
+		                	<div class="col-xs-12" id="save_alert_28544" style="display:none;">
+							</div>
+						</div>
+						<h2><div class="question-number">1. </div><div class="question-main">Accounting provides information on
+</div>
+						</h2>
+
+					<div class="question-inner">
+
+								<div class="form-style form-style-3">
+									<div class="form-inputs clearfix question-options">
+                  	
+										<p>
+											<label class="color" for="poll-28544-1">A. </label>
+                       <input type="radio" name="poll-radio-28544" id="poll-28544-1">
+											<label for="poll-28544-1">Cost and income for managers</label>
+										</p>
+                    										<p>
+											<label for="poll-28544-2">B. </label>
+                       <input type="radio" name="poll-radio-28544" id="poll-28544-2">
+											<label for="poll-28544-2">Company's tax liability for a particular year</label>
+										</p>
+                    										<p>
+											<label for="poll-28544-3">C. </label>
+                      <input type="radio" name="poll-radio-28544" id="poll-28544-3">
+											<label for="poll-28544-3">Financial conditions of an institutions</label>
+										</p>
+                    										<p>
+											<label for="poll-28544-4">D. </label>
+                      <input type="radio" name="poll-radio-28544" id="poll-28544-4">
+											<label for="poll-28544-4">All of the above</label>
+										</p>
+
+                                                            <p class="hidden">
+                                        	<input type="hidden" id="answer_28544" value="4" />
+                                        </p>
+									</div>
+							</div>
+					</div>
+
+              <div class="question-bottom">
+                <a href="javascript:void(0);" class="box">Answer & Solution</a>
+                <a href="https://www.examveda.com/accounting-provides-information-on-28544">Discuss in Board</a>
+						<a class="save-post" href="javascript:void(0);" onclick="saveQuestion(28544, 0, 'https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F')"><span><i class="icon-save"></i> Save for Later</span></a>
+			  </div>
+
+             <div class="row answer_container" style="display:none;">
+							<div class="col-md-offset-1 col-md-10">
+                <div class="page-content">
+                  <div class="boxedtitle page-title">
+                    <h2 class="t_left">Answer & Solution</h2>
+                  </div>
+                 		<div><span class="color">Answer:</span><strong> Option D</strong> </div>
+                    <div>
+
+											                    	<div><span class="color">Solution: </span></div>
+                      		Accounting provides information on Cost and income for managers, Company's tax liability for a particular year and Financial conditions of an institutions.                     
+
+                    </div>
+                </div>
+               </div>
+             </div>
+
+
+
+				</article>
+    
+         
+            <article class="question single-question question-type-normal">
+						<div class="row">
+		                	<div class="col-xs-12" id="save_alert_28545" style="display:none;">
+							</div>
+						</div>
+						<h2><div class="question-number">2. </div><div class="question-main">The long term assets that have no physical existence but are rights that have value is known as
+</div>
+						</h2>
+
+					<div class="question-inner">
+
+								<div class="form-style form-style-3">
+									<div class="form-inputs clearfix question-options">
+                  	
+										<p>
+											<label class="color" for="poll-28545-1">A. </label>
+                       <input type="radio" name="poll-radio-28545" id="poll-28545-1">
+											<label for="poll-28545-1">Current assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28545-2">B. </label>
+                       <input type="radio" name="poll-radio-28545" id="poll-28545-2">
+											<label for="poll-28545-2">Fixed assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28545-3">C. </label>
+                      <input type="radio" name="poll-radio-28545" id="poll-28545-3">
+											<label for="poll-28545-3">Intangible assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28545-4">D. </label>
+                      <input type="radio" name="poll-radio-28545" id="poll-28545-4">
+											<label for="poll-28545-4">Investments</label>
+										</p>
+
+                                                            <p class="hidden">
+                                        	<input type="hidden" id="answer_28545" value="3" />
+                                        </p>
+									</div>
+							</div>
+					</div>
+
+              <div class="question-bottom">
+                <a href="javascript:void(0);" class="box">Answer & Solution</a>
+                <a href="https://www.examveda.com/the-long-term-assets-that-have-no-physical-existence-but-are-rights-that-have-value-is-known-as-28545">Discuss in Board</a>
+						<a class="save-post" href="javascript:void(0);" onclick="saveQuestion(28545, 0, 'https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F')"><span><i class="icon-save"></i> Save for Later</span></a>
+			  </div>
+
+             <div class="row answer_container" style="display:none;">
+							<div class="col-md-offset-1 col-md-10">
+                <div class="page-content">
+                  <div class="boxedtitle page-title">
+                    <h2 class="t_left">Answer & Solution</h2>
+                  </div>
+                 		<div><span class="color">Answer:</span><strong> Option C</strong> </div>
+                    <div>
+
+											                    	<div><span class="color">Solution: </span></div>
+                      		The long term assets that have no physical existence but are rights that have value is known as Intangible assets. An intangible asset is an asset that is not physical in nature. Goodwill, brand recognition and intellectual property, such as patents, trademarks, and copyrights, are all intangible assets.                     
+
+                    </div>
+                </div>
+               </div>
+             </div>
+
+
+
+				</article>
+    
+         
+            <article class="question single-question question-type-normal">
+						<div class="row">
+		                	<div class="col-xs-12" id="save_alert_28546" style="display:none;">
+							</div>
+						</div>
+						<h2><div class="question-number">3. </div><div class="question-main">The assets that can be converted into cash within a short period (i.e. 1 year or less) are known as
+</div>
+						</h2>
+
+					<div class="question-inner">
+
+								<div class="form-style form-style-3">
+									<div class="form-inputs clearfix question-options">
+                  	
+										<p>
+											<label class="color" for="poll-28546-1">A. </label>
+                       <input type="radio" name="poll-radio-28546" id="poll-28546-1">
+											<label for="poll-28546-1">Current assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28546-2">B. </label>
+                       <input type="radio" name="poll-radio-28546" id="poll-28546-2">
+											<label for="poll-28546-2">Fixed assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28546-3">C. </label>
+                      <input type="radio" name="poll-radio-28546" id="poll-28546-3">
+											<label for="poll-28546-3">Intangible assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28546-4">D. </label>
+                      <input type="radio" name="poll-radio-28546" id="poll-28546-4">
+											<label for="poll-28546-4">Investments</label>
+										</p>
+
+                                                            <p class="hidden">
+                                        	<input type="hidden" id="answer_28546" value="1" />
+                                        </p>
+									</div>
+							</div>
+					</div>
+
+              <div class="question-bottom">
+                <a href="javascript:void(0);" class="box">Answer & Solution</a>
+                <a href="https://www.examveda.com/the-assets-that-can-be-converted-into-cash-within-a-short-period-ie-1-year-or-less-are-known-as-28546">Discuss in Board</a>
+						<a class="save-post" href="javascript:void(0);" onclick="saveQuestion(28546, 0, 'https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F')"><span><i class="icon-save"></i> Save for Later</span></a>
+			  </div>
+
+             <div class="row answer_container" style="display:none;">
+							<div class="col-md-offset-1 col-md-10">
+                <div class="page-content">
+                  <div class="boxedtitle page-title">
+                    <h2 class="t_left">Answer & Solution</h2>
+                  </div>
+                 		<div><span class="color">Answer:</span><strong> Option A</strong> </div>
+                    <div>
+
+											                    	<div><span class="color">Solution: </span></div>
+                      		The assets that can be converted into cash within a short period (i.e. 1 year or less) are known as Current assets. Current assets include cash, cash equivalents, accounts receivable, stock inventory, marketable securities, pre-paid liabilities, and other liquid assets.                      
+
+                    </div>
+                </div>
+               </div>
+             </div>
+
+
+
+				</article>
+    
+             				<article class="question single-question question-type-normal center">
+               		<!-- question_page_middle -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5532218674251828"
+     data-ad-slot="8679411894"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </article>
+         
+            <article class="question single-question question-type-normal">
+						<div class="row">
+		                	<div class="col-xs-12" id="save_alert_28547" style="display:none;">
+							</div>
+						</div>
+						<h2><div class="question-number">4. </div>
+							<div class="question-main">Patents, Copyrights and Trademarks are</div>
+						</h2>
+
+					<div class="question-inner">
+
+								<div class="form-style form-style-3">
+									<div class="form-inputs clearfix question-options">
+                  	
+										<p>
+											<label class="color" for="poll-28547-1">A. </label>
+                       <input type="radio" name="poll-radio-28547" id="poll-28547-1">
+											<label for="poll-28547-1">Current assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28547-2">B. </label>
+                       <input type="radio" name="poll-radio-28547" id="poll-28547-2">
+											<label for="poll-28547-2">Fixed assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28547-3">C. </label>
+                      <input type="radio" name="poll-radio-28547" id="poll-28547-3">
+											<label for="poll-28547-3">Intangible assets</label>
+										</p>
+                    										<p>
+											<label for="poll-28547-4">D. </label>
+                      <input type="radio" name="poll-radio-28547" id="poll-28547-4">
+											<label for="poll-28547-4">Investments</label>
+										</p>
+
+                                                            <p class="hidden">
+                                        	<input type="hidden" id="answer_28547" value="3" />
+                                        </p>
+									</div>
+							</div>
+					</div>
+
+              <div class="question-bottom">
+                <a href="javascript:void(0);" class="box">Answer & Solution</a>
+                <a href="https://www.examveda.com/patents-copyrights-and-trademarks-are-28547">Discuss in Board</a>
+						<a class="save-post" href="javascript:void(0);" onclick="saveQuestion(28547, 0, 'https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F')"><span><i class="icon-save"></i> Save for Later</span></a>
+			  </div>
+
+             <div class="row answer_container" style="display:none;">
+							<div class="col-md-offset-1 col-md-10">
+                <div class="page-content">
+                  <div class="boxedtitle page-title">
+                    <h2 class="t_left">Answer & Solution</h2>
+                  </div>
+                 		<div><span class="color">Answer:</span><strong> Option C</strong> </div>
+                    <div>
+
+											                    	<div><span class="color">Solution: </span></div>
+                      		Patents, Copyrights and Trademarks are Intangible assets. An intangible asset is an asset that is not physical in nature. Goodwill, brand recognition and intellectual property, such as patents, trademarks, and copyrights, are all intangible assets.                     
+
+                    </div>
+                </div>
+               </div>
+             </div>
+
+
+
+				</article>
+    
+         
+            <article class="question single-question question-type-normal">
+						<div class="row">
+		                	<div class="col-xs-12" id="save_alert_28548" style="display:none;">
+							</div>
+						</div>
+						<h2><div class="question-number">5. </div><div class="question-main">The debts which are to be repaid within a short period (year or less) are known as
+</div>
+						</h2>
+
+					<div class="question-inner">
+
+								<div class="form-style form-style-3">
+									<div class="form-inputs clearfix question-options">
+                  	
+										<p>
+											<label class="color" for="poll-28548-1">A. </label>
+                       <input type="radio" name="poll-radio-28548" id="poll-28548-1">
+											<label for="poll-28548-1">Current liabilities</label>
+										</p>
+                    										<p>
+											<label for="poll-28548-2">B. </label>
+                       <input type="radio" name="poll-radio-28548" id="poll-28548-2">
+											<label for="poll-28548-2">Fixed liabilities</label>
+										</p>
+                    										<p>
+											<label for="poll-28548-3">C. </label>
+                      <input type="radio" name="poll-radio-28548" id="poll-28548-3">
+											<label for="poll-28548-3">Contingent liabilities</label>
+										</p>
+                    										<p>
+											<label for="poll-28548-4">D. </label>
+                      <input type="radio" name="poll-radio-28548" id="poll-28548-4">
+											<label for="poll-28548-4">All of the above</label>
+										</p>
+
+                                                            <p class="hidden">
+                                        	<input type="hidden" id="answer_28548" value="1" />
+                                        </p>
+									</div>
+							</div>
+					</div>
+
+              <div class="question-bottom">
+                <a href="javascript:void(0);" class="box">Answer & Solution</a>
+                <a href="https://www.examveda.com/the-debts-which-are-to-be-repaid-within-a-short-period-year-or-less-are-known-as-28548">Discuss in Board</a>
+						<a class="save-post" href="javascript:void(0);" onclick="saveQuestion(28548, 0, 'https%3A%2F%2Fwww.examveda.com%3A443%2Fcommerce%2Fpractice-mcq-question-on-accounting%2F')"><span><i class="icon-save"></i> Save for Later</span></a>
+			  </div>
+
+             <div class="row answer_container" style="display:none;">
+							<div class="col-md-offset-1 col-md-10">
+                <div class="page-content">
+                  <div class="boxedtitle page-title">
+                    <h2 class="t_left">Answer & Solution</h2>
+                  </div>
+                 		<div><span class="color">Answer:</span><strong> Option A</strong> </div>
+                    <div>
+
+											                    	<div><span class="color">Solution: </span></div>
+                      		The debts which are to be repaid within a short period (year or less) are known as Current liabilities. Current liabilities are a company's debts or obligations that are due within one year or within a normal operating cycle.                      
+
+                    </div>
+                </div>
+               </div>
+             </div>
+
+
+
+				</article>
+    
+
+            		<article class="question single-question question-type-normal">
+												<!-- question-page-bottom -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-5532218674251828"
+                             data-ad-slot="2454467455"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+            		</article>
+            
+                <article>
+                    <div class="page-content">
+                      <div class="pagination">
+                      <br>   
+                              <span id="pg_1" data-toggle="tooltip" title="showing 1 - 5 records  of 70 records" class="current">1</span>
+<a id="pg_2" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=2"  data-toggle="tooltip" title="showing 6 - 10 records  of 70 records">2</a>
+<a id="pg_3" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=3"  data-toggle="tooltip" title="showing 11 - 15 records  of 70 records">3</a>
+<a id="pg_4" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=4"  data-toggle="tooltip" title="showing 16 - 20 records  of 70 records">4</a>
+<a id="pg_5" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=5"  data-toggle="tooltip" title="showing 21 - 25 records  of 70 records">5</a>
+<a id="pg_6" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=6"  data-toggle="tooltip" title="showing 26 - 30 records  of 70 records">6</a>
+<a id="pg_7" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=7"  data-toggle="tooltip" title="showing 31 - 35 records  of 70 records">7</a>
+<a id="pg_8" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=8"  data-toggle="tooltip" title="showing 36 - 40 records  of 70 records">8</a>
+<a id="pg_9" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=9"  data-toggle="tooltip" title="showing 41 - 45 records  of 70 records">9</a>
+<a id="pg_10" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=10"  data-toggle="tooltip" title="showing 46 - 50 records  of 70 records">10</a>
+<a id="pg_11" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=11"  data-toggle="tooltip" title="showing 51 - 55 records  of 70 records">11</a>
+<a id="pg_12" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=12"  data-toggle="tooltip" title="showing 56 - 60 records  of 70 records">12</a>
+<a id="pg_13" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=13"  data-toggle="tooltip" title="showing 61 - 65 records  of 70 records">13</a>
+<a id="pg_14" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=14"  data-toggle="tooltip" title="showing 66 - 70 records  of 70 records">14</a>
+<a id="pn_2" href="https://www.examveda.com:443/commerce/practice-mcq-question-on-accounting/?page=2" data-toggle="tooltip" title="showing 6 - 10 records of 70 records" ><i class="fas fa-angle-right"></i></a>
+                          </div>    
+                   </div>
+                </article>
+                
+                
+                
+				  		
+        <div class="page-content">
+			<div class="boxedtitle page-title"><h2>Read More Section(Accounting)</h2></div>
+            	<p>Each Section contains maximum <strong>70 questions</strong>. To get more questions visit other sections.</p>
+            	<ul class="more-section">
+       		                    	<li><a href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=2" title="Accounting - Section 2">Accounting - Section 2</a></li>
+                                        	<li><a href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=3" title="Accounting - Section 3">Accounting - Section 3</a></li>
+                                        	<li><a href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=4" title="Accounting - Section 4">Accounting - Section 4</a></li>
+                                        	<li><a href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=5" title="Accounting - Section 5">Accounting - Section 5</a></li>
+                                        	<li><a href="https://www.examveda.com/commerce/practice-mcq-question-on-accounting/?section=6" title="Accounting - Section 6">Accounting - Section 6</a></li>
+                                   </ul>
+        </div>
+
+
+					</div><!-- End main -->
+      <aside class="col-md-4 sidebar">
+            		 <article class="page-content padding2 center">
+			 <!-- /270858676/TM_adx_right_side_300x250 -->
+<div id='div-gpt-ad-1561981355188-0'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1561981355188-0'); });</script></div>		</article>
+		 <article class="page-content padding2 center">
+			<!-- /270858676/TM_adx_right_side_300x600 -->
+<div id='div-gpt-ad-1561981397059-0'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1561981397059-0'); });</script></div>		</article>
+      </aside><!-- End sidebar -->
+		</div><!-- End row -->
+	</section><!-- End container -->
+</div><!-- End wrap -->
+						<section class="container main-content margin-bottom-15">
+<div class="row">
+     <div class="col-md-12" style="margin-bottom:0px;">
+            <article class="center page-content padding5">
+               <ins class="adsbygoogle"
+                   style="display:inline-block;width:970px;height:250px"
+                   data-ad-client="ca-pub-5532218674251828"
+                   data-ad-slot="3748317717"></ins>
+              <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+              </script>
+            </article>
+       </div>
+    </div>
+</section>
+
+<!--<footer id="footer"></footer>--><!-- End footer -->
+	<footer id="footer-bottom">
+		<section class="container">
+			<div class="copyrights f_left">Copyright � 2019 <a href="https://www.examveda.com/"> &nbsp; Examveda.com</a></div>
+			<div class="social_icons f_right">
+				<ul>
+					<li class="twitter"><a original-title="Twitter" class="tooltip-n" href="https://www.twitter.com/examveda" target="_blank"><i class="fab fa-twitter font17"></i></a></li>
+					<li class="facebook"><a original-title="Facebook" class="tooltip-n" href="https://www.facebook.com/examveda" target="_blank"><i class="fab fa-facebook-f font17"></i></a></li>
+					<li class="gplus"><a original-title="Google plus" class="tooltip-n" href="https://plus.google.com/+Examveda/" target="_blank"><i class="fab fa-google-plus-g font17"></i></a></li>
+					
+				</ul>
+			</div><!-- End social_icons -->
+       <div class="f_right">
+        <ul class="bottom-about">
+            <li><a title="About" href="https://www.examveda.com/about/">About Us |</a></li>
+            <li><a title="Terms and Condition" href="https://www.examveda.com/terms-and-condition/">Terms  &amp; Condition |</a></li>
+            <li><a title="Terms and Condition" href="https://www.examveda.com/privacy-policy/">Privacy Policy |</a></li>
+            <li><a title="Contact Us" href="https://www.examveda.com/contact-us/">Contact Us</a></li>
+        </ul>
+		</div>
+		</section><!-- End container -->
+	</footer><!-- End footer-bottom -->
+
+
+
+  
+<div class="go-up"><i class="fas fa-chevron-up"></i></div>
+
+<!-- js -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="https://www.examveda.com/js/tabs.js"></script>
+<script src="https://www.examveda.com/js/custom.js"></script>
+<!-- End js -->
+
+</body>
+</html>

@@ -21,7 +21,7 @@ def main():
     for root, SubFolders , files in os.walk(directory):
         os.chdir(root)
         files = glob.glob('*.exe')
-        print(files)
+        # print(files)
         for filename in files:
             os.unlink(filename)
             count+=1
