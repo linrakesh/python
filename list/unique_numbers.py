@@ -9,5 +9,4 @@ for i in list1:
     if i not in num:
         num.append(i)
 
-for i in num:
-    print(i)
+print(num)
