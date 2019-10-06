@@ -8,7 +8,7 @@ from playsound import playsound
 import os
  
 # The text that you want to convert to audio
-mytext = 'My Baby samraddhi is playing with my mobile phone. Welcome to binarynote.com and this is really amazing my dear!'
+mytext = 'My Baby samraddhi is playing with my mobile phone.Amazing my dear!'
  
 # Language in which you want to convert
 language = 'en'
