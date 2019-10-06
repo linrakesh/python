@@ -11,6 +11,8 @@ import snake as snk
 import food as fd
 import sys
 from . import *
+from colors import *
+
 
 # screen size and game speed
 WIDTH      = 25
