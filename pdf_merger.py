@@ -1,12 +1,10 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      acer
+# Name:        Python Program to merge PDF files 
+# # Author:    rakesh kumar
 #
 # Created:     13-04-2018
 # Copyright:   (c) acer 2018
-# Licence:     <your licence>
+# Licence:     MIT
 #-------------------------------------------------------------------------------
 
 # pdf_merger.py

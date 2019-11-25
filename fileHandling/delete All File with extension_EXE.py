@@ -1,12 +1,10 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:        Program to delete a particular type of files from selected directory 
 #
-# Author:      acer
+# Author:      rakesh
 #
 # Created:     05-05-2017
-# Copyright:   (c) acer 2017
-# Licence:     <your licence>
+# Copyright:   MIT
 #-------------------------------------------------------------------------------
 import os
 import sys          #module for terminating 
