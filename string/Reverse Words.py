@@ -1,0 +1,5 @@
+word = input('Enter any large string : ')
+print('Original string :',word)
+word = word.split()
+word = ' '.join(word[-1::-1])
+print('Reverse String :',word)

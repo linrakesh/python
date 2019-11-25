@@ -1,4 +1,4 @@
-#   Hangman Games
+9#   Hangman Games
 #   program by          : rakesh kumar
 #   website             : https://cbsetoday.com
 
@@ -19,7 +19,9 @@ for i in word:
 
 #   counter variable is used to track number of wrong letters.
 #   a user can make If it is 6 then terminate the program and print message
-
+for i in lines:
+        print(i, end=" ")
+        
 counter = 0
 while True:
     letter = input('\nGuess your letter :')
@@ -43,5 +45,6 @@ while True:
 
 if counter >= 6:
     print("\n\n\n You looser..............Think properly")
+    print('Original Words : ',word)
 else:
     print("\n\n\n Yes!!!!!!!!!!! You WON this match")
