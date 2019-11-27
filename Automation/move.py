@@ -7,11 +7,12 @@ source = 'e:/python'
 dest_dir = "C:/test"
 
 files = glob.glob(source+"/*.txt")
+for file in files:
+    print(file)
+    shutil.move(file, dest_dir)
 
-# for file in files:
-#     print(file)
-#     shutil.copy(file, dest_dir)
-#     os.unlink(file)
-while True:
+
+""" while True:
     print("Hello rakesh")
     time.sleep(5)
+ """

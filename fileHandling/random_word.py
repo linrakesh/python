@@ -3,7 +3,6 @@
 #   program by          : rakesh kumar
 #   website             : https://cbsetoday.com
 
-
 import random as r
 with open("sowpods.txt") as file:
     data = file.read().split()
