@@ -1,4 +1,4 @@
-# program to read a binary file of records - Just like structure
+# program to search a name in binary file
 #   made by         : rakesh kumar
 #   Compiled on     : 8-July-2018
 
