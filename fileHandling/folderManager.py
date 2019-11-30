@@ -1,3 +1,8 @@
+#   Python program to arrange files according to their file types
+#   made by             : rakesh kumar
+#   last compiled on    : 30/11/2019
+
+
 import os
 import os.path
 from os import path
