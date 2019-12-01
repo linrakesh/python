@@ -11,8 +11,6 @@ from tkinter import filedialog
 import tkinter.messagebox
 
 
-source = r'C:\Users\rakesh\Documents'
-
 filetype = {'docs': ['doc', 'docx', 'xls', 'xlsx', 'ppt', 'pptx', 'txt', 'rtf', 'odf', 'odt'],
             'pdf':  ['pdf'],
             'img':  ['jpg', 'jpeg', 'png', 'gif', 'bmp'],
@@ -24,12 +22,12 @@ filetype = {'docs': ['doc', 'docx', 'xls', 'xlsx', 'ppt', 'pptx', 'txt', 'rtf', 
 
 def filemove(file, filetype, key):
     if(file.split('.')[1]) in filetype[key]:
-        if (os.path.exists(source+'/'+key) == False):
-            os.mkdir(source+'/'+key)
-        elif(path.isfile(source+'/'+key)):
-            os.mkdir(source+'/'+key)
+        if (os.path.exists(sourcedir+'/'+key) == False):
+            os.mkdir(sourcedir+'/'+key)
+        elif(path.isfile(sourcedir+'/'+key)):
+            os.mkdir(sourcedir+'/'+key)
         try:
-            shutil.move(root + "/"+file, source+'/'+key)
+            shutil.move(sourcedir + "/"+file, sourcedir+'/'+key)
         except:
             pass
 
@@ -48,4 +46,4 @@ for root, folder, files in os.walk(sourcedir):
             if(file.split('.')[1]) in filetype[key]:
                 filemove(file, filetype, key)
 
-tkinter.messagebox.showinfo('Window Title', 'Please check your Folde now')
+tkinter.messagebox.showinfo('Folder Manager', 'Please check your Folde now')
