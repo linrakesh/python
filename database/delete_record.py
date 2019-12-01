@@ -10,10 +10,10 @@
 #-------------------------------------------------------------------------------
 
 import MySQLdb
-db = MySQLdb.connect("localhost","root","","cable")
+db = MySQLdb.connect("localhost","root","","binarynote")
 cursor = db.cursor()
 name = input("Enter any name : ")
-sql ="delete from customer where name like '%" + name + "';"
+sql ="delete from user where uname like '%" + name + "';"
 cursor.execute(sql)
 db.commit()
 db.close()
