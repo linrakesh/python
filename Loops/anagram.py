@@ -3,14 +3,15 @@
 
 from itertools import permutations
 
+
 def words(letters):
     yield from map(''.join, permutations(letters, len(letters)))
 
+
 result = set()
-for word in words('Compute'):
+for word in words('krish'):
     result.add(word)
 
-print(f' There are {len(result)} combinations')
+
 print(result)
-
-
+print(f' There are {len(result)} combinations')
