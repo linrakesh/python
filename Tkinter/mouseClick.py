@@ -11,7 +11,7 @@ def middleClick(event):
 
 root = Tk()
 
-frame = Frame(root, width=400, height=400)
+frame = Frame(root, width=800, height=400)
 frame.bind('<Button-1>',leftClick)
 frame.bind('<Button-2>',middleClick)
 frame.bind('<Button-3>',rightClick)
