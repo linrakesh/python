@@ -1,7 +1,7 @@
-x =[1,2,3,5,7,8,9,10,12,14,15,18,20,22]
+x = [1, 2, 3, 5, 7, 8, 9, 10, 12, 14, 15, 18, 20, 22]
 data = 10
 
-#bad way to find data in tuple
+# bad way to find data in tuple
 ''' found =0
 first=0
 last =13
@@ -21,6 +21,6 @@ else:
 
  '''
 if data in x:
-     print("Data found")
+    print("Data found")
 else:
     print("Not found")
