@@ -1,3 +1,6 @@
+import math as m
+
+
 def check_prime(n):
     flag = True
     for x in range(2, n//2):
@@ -8,5 +11,5 @@ def check_prime(n):
 
 if __name__ == "__main__":
     n = int(input('Enter any integer number  : '))
-    result = check_prime(n)
+    result = check2_prime(n)
     print("Prime Number " if (result) else '"Not prime Number')
