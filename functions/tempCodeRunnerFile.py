@@ -1,17 +1,10 @@
-#   program to find out sum of element of a list using recursion
-#   made by         : rakesh kumar
+# program to define lambda function in python
 
 
-def sum_element(l):
-    if(len(l) == 1):
-        return l[0]
-    else:
-        value = l.pop()
-        return value+sum_element(l)
+def f(x): return x**2
 
 
-if __name__ == "__main__":
-
-    list1 = [1, 2, 34, 5, 6]
-    result = sum_element(list1)
-    print('sum of element :', result)
+# lambda function with map() function
+l1 = [1, 2, 4, 5, 6, 7, 78, 7, 4, 34, 4, 14, 44, 4, 4]
+result = map(f, l1)
+print(result)
