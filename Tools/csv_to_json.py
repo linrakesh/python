@@ -1,5 +1,7 @@
 import csv
-json = []
+import json
+
+data = []
 keys = []
 with open("E:/python/Tools/SampleData.csv") as csv_file:
     csv_data = csv.reader(csv_file)
@@ -12,8 +14,8 @@ with open("E:/python/Tools/SampleData.csv") as csv_file:
             element = {}
             for y in range(len(row)):
                 element[keys[y]] = row[y]
-            json.append(element)
+            data.append(element)
 
         count = count+1
 
-print(json)
+print(json.dumps(data,))
