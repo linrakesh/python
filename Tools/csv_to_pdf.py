@@ -11,5 +11,5 @@ with open("e:/python/tools/SampleData.csv", "r") as csv_file:
 pdf = FPDF(orientation='P', unit='mm', format='A4')  # P -potrait  L-Landscape
 pdf.add_page()
 pdf.set_font("Arial", size=12)
-pdf.cell(200, 10, txt=str(data), ln=1, align="C")
+pdf.cell(200, 10, txt=str(d), ln=1, align="C")
 pdf.output("simple_demo.pdf")

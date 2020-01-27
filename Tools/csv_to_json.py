@@ -15,7 +15,6 @@ with open("E:/python/Tools/SampleData.csv") as csv_file:
             for y in range(len(row)):
                 element[keys[y]] = row[y]
             data.append(element)
-
         count = count+1
 
 print(json.dumps(data,))
