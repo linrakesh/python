@@ -1,12 +1,13 @@
-# program to print scatter graph on the screen
+# program to print line graph on the screen
 # made by        : rakesh kumar
 
 import matplotlib.pyplot as plt
 import numpy as np
-x = ['Delhi', 'Banglore', 'Chennai', 'Pune']
-y = [250, 300, 260, 400]
-plt.xlabel('City')
-plt.ylabel('Sales in Million')
-plt.title('Sales Recorded in Major Cities')
+x = ['week-1', 'week-2', 'week-3', 'week-4',"Week-6","Week-6","week-7","week-8"]
+y = [1250, 1300, 1260, 1400,2420,3180,6550,1220]   
 plt.plot(x, y)
+plt.xlabel('Week wise Sales')
+plt.ylabel('No of Unit Sold')
+plt.title('Sales of Electronics in Deepawali')
+plt.grid()
 plt.show()
