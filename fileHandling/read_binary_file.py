@@ -6,5 +6,6 @@ import pickle
 
 file = open("student.dat", "rb")
 list = pickle.load(file)
-print(list)
+for x in list:
+    print(x['roll'],x['name'])
 file.close()

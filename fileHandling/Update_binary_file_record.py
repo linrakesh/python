@@ -4,8 +4,7 @@
 
 import pickle
 
-name = input('Enter name that you want to update in binary file :')
-
+name = input('Name to update :')
 file = open("student.dat", "rb+")
 list = pickle.load(file)
 
