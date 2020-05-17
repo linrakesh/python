@@ -1,19 +1,19 @@
 #function to add element at the end of list
-def add_element(stack,x):
-    stack.append(x)
+def add_element(queue,x):
+    queue.append(x)
 #function to remove last element from list    
-def delete_element(stack):
-    n = len(stack)
+def delete_element(queue):
+    n = len(queue)
     if(n<=0):
         print("Queue empty....Deletion not possible")
     else:
-        del(stack[0])
+        del(queue[0])
 
-#function to display stack entry
-def display(stack):
-    if len(stack)<=0:
+#function to display queue entry
+def display(queue):
+    if len(queue)<=0:
         print("Queue empty...........Nothing to display")
-    for i in stack:
+    for i in queue:
         print(i,end=" ")
 #main program starts from here 
 x=[]
