@@ -1,0 +1,1 @@
+marks = pd.Series({'rakesh':56,'anuj':89,'Bhumi':90,'Jagdev':80})

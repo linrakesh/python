@@ -9,8 +9,6 @@
 #   series.hasnans      - return true if there are any Nan value
 #   series.empty        - return true if series object is empty
 
-
-
 import pandas as pd
 
 s= pd.Series(range(3,30,3))
