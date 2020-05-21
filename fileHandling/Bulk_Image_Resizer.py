@@ -20,7 +20,7 @@ def small(source,target,original):
     dest = target + '\\' +original
     with open(original, 'r+b') as f:
         with Image.open(f) as image:
-            cover = resizeimage.resize_cover(image, [383, 119], validate=False)
+            cover = resizeimage.resize_cover(image, [300, 200], validate=False)
             cover.save(dest, image.format)
 
 def deleteFiles():
