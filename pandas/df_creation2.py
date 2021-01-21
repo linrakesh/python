@@ -1,12 +1,18 @@
-# create dataframe using list of Python Dictionary
+# create dataframe using list of Tuple
 import pandas as pd
-df = pd.DataFrame(
-    [
-        {'admno': 1101,'name': 'rakesh','marks' :56, 'fees': 5656.56},
-        {'admno': 1203, 'name':'jatin jain','marks':56, 'fees': 5666.56},
-        {'admno': 1205, 'name':'pushkar','marks':78, 'fees': 5666.56},
-        {'admno': 1206, 'name':'arushi','marks':98, 'fees': 4564.34},
-        {'admno': 1208, 'name':'mannat bhatia','marks':89, 'fees': 4500}
-    ]
-)
+data = [
+    (1101, 'rakesh', 56, 5656.56),
+    (1203, 'jatin jain', 56, 5666.56),
+    (1205, 'pushkar', 78, 5666.56),
+    (1206, 'arushi', 98, 4564.34),
+    (1208, 'mannat bhatia', 89,  4500),
+    (1234, 'unnati', 67, 3500.56),
+    (1245, 'Nikunj Tyagi', 68, 4500),
+    (5755, 'vishank', 89, 5000)
+]
+heading = ["admno", "name", "marks", "fees"]
+df = pd.DataFrame(data, columns=heading)
+print(df)
+df = df.append({'admno': 9999, 'name': 'ramji', 'marks': 99,
+                'fees': 9999.99,'grade':'a'}, ignore_index=True)
 print(df)

@@ -1,4 +1,4 @@
-9#   Hangman Games
+#   Hangman Games
 #   program by          : rakesh kumar
 #   website             : https://cbsetoday.com
 
@@ -6,7 +6,7 @@
 import random as r
 
 # steps to select a random word from sowpods.txt file
-with open("sowpods.txt") as file:
+with open("c:/python/projects/sowpods.txt") as file:
     data = file.read().split()
     number = r.randint(0, len(data))
     word = data[number]

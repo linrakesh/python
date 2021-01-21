@@ -12,7 +12,6 @@ data = [
 ]
 heading = ["admno", "name", "marks", "fees"]
 df = pd.DataFrame(data, columns=heading)
-print(df['marks']+10)
-print(df.marks>75)
-print(df['marks'][df.marks>75])
-
+df = df.append({'admno': 9999, 'name': 'ramji', 'marks': 99,
+                'fees': 9999.99}, ignore_index=True)
+print(df)

@@ -1,4 +1,3 @@
-# create dataframe using list of Tuple
 import pandas as pd
 data = [
     (1101, 'rakesh', 56, 5656.56),
@@ -12,7 +11,8 @@ data = [
 ]
 heading = ["admno", "name", "marks", "fees"]
 df = pd.DataFrame(data, columns=heading)
-print(df['marks']+10)
-print(df.marks>75)
-print(df['marks'][df.marks>75])
-
+#df =df.rename(columns={"fees":'Annual Fees'})
+#df = df.rename({'fees':'Yealy fees'},axis=1)
+df = df.rename({'fees':'yealy fees', 'marks':'ut-2'}, axis=1)
+#df.rename({'fees': 'yealy fees', 'marks': 'ut-2'}, axis=1,inplace=True)
+print(df)

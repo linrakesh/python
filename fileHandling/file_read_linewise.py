@@ -2,10 +2,11 @@
 #made by        : rakesh kumar
 # made on       : 07/07/2018   
 
-file =  open(r"abcd.txt",'r')
-count=0;
-for line in file.readlines():
-    if "Project" in line.split():
-        count+=1
+
+
+file =  open("abcd.txt",'r')
+data = file.readlines()
+for line in data:
+    print(data)
+
 file.close()
-print("Total 'Project' term available :",count)

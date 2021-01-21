@@ -1,1 +1,1 @@
- print(x)
+print("Total lines that start with alphabet 'T'  :",count)

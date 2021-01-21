@@ -1,10 +1,21 @@
 from tkinter import *
 import  tkinter.messagebox
+import tkinter.simpledialog
 root = Tk()
 
-tkinter.messagebox.showinfo('Window Title','This is the message')
-answer = tkinter.messagebox.askyesno('Question',"Are you sure to delete this record ?")
-if answer ==True :
-    print("You selected to delete record")
+""" 
+yesno  = tkinter.messagebox.askyesno('Question',"Are you sure to delete this record ?")
+tkinter.messagebox.askokcancel()
+tkinter.messagebox.askquestion()
+tkinter.messagebox.askretrycancel()
+tkinter.messagebox.askyesnocancel()
+
+if yesno ==True :
+    print("You selected to delete record") 
+ """
+
+no = tkinter.simpledialog.askstring('List Input','Enter number ')
+no = no.split()
+print(no)
 
 root.mainloop()

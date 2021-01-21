@@ -12,4 +12,9 @@ data = [
 ]
 heading = ["admno", "name", "marks", "fees"]
 df = pd.DataFrame(data, columns=heading)
-print(df[1])
+print(df.head())
+print(df.head(2))
+print(df.tail())
+print(df.tail(3))
+print(df[1:3])
+

@@ -1,10 +1,12 @@
-# create dataframe using list of Tuple
 import pandas as pd
 data = [
     (1101, 'rakesh', 56, 5656.56),
     (1203, 'jatin jain', 56, 5666.56),
     (1205, 'pushkar', 78, 5666.56),
     (1206, 'arushi', 98, 4564.34),
+]
+data1 = [
+    
     (1208, 'mannat bhatia', 89,  4500),
     (1234, 'unnati', 67, 3500.56),
     (1245, 'Nikunj Tyagi', 68, 4500),
@@ -12,7 +14,7 @@ data = [
 ]
 heading = ["admno", "name", "marks", "fees"]
 df = pd.DataFrame(data, columns=heading)
-print(df['marks']+10)
-print(df.marks>75)
-print(df['marks'][df.marks>75])
+df1 = pd.DataFrame(data1, columns=heading)
 
+df2 = df.append(df1)    # concatenation
+print(df2)

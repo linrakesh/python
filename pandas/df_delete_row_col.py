@@ -1,4 +1,3 @@
-# create dataframe using list of Tuple
 import pandas as pd
 data = [
     (1101, 'rakesh', 56, 5656.56),
@@ -12,7 +11,10 @@ data = [
 ]
 heading = ["admno", "name", "marks", "fees"]
 df = pd.DataFrame(data, columns=heading)
-print(df['marks']+10)
-print(df.marks>75)
-print(df['marks'][df.marks>75])
+#df = df.drop('fees',axis=1)
+#df = df.drop(columns=['marks','fees'])
+#df = df.drop(['marks','fees'],axis=1)
+#df.drop('fees',axis=1,inplace=True)
+df =df.drop([1,2,3],axis=0)   # delete rows 
+print(df)
 
