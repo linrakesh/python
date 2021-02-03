@@ -6,7 +6,7 @@ def line_count():
   for line in file.readlines():
       if line[0]=='P' or line[0]=='S':
         count+=1
-        print(line) 
+        #print(line) 
   file.close()
   print('Total lines :',count)
 
