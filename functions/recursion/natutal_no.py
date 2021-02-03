@@ -1,3 +1,7 @@
+# recursive function to print first 100 natural number
+# made by   : rakesh kumar
+
+
 def natural(n):
     if n == 100:
         print(100, end=" ")
@@ -8,4 +12,4 @@ def natural(n):
 
 
 # function call to print 100 natural no
-natural(1)
+natural(10)  #

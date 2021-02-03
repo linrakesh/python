@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+<<<<<<< HEAD
+=======
 from numpy import linspace,pi,sin,cos,tan
 
 #multiple figures
@@ -17,3 +19,4 @@ plt.figure(1)
 plt.hist(data,bins=[0,10,20,30,40,50,60],color="green")
 plt.scatter(frequency,x)
 plt.show()
+>>>>>>> da25a2a32ac30d0980ed6d1d3ad58008d8ff0b21

@@ -1,9 +1,1 @@
-def sum(n):
-    if n ==0:
-        return 0
-    else:
-       return(n%10+sum(n//10))
-
-n = int(input("Enter x : "))
-result = sum(n)
-print("Sum of digits : ",result)
+l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
